@@ -2,7 +2,7 @@
 # İçindekiler:
 <ol>
     <li><a href ="/numpy-tutorial-tr.ipynb"> Numpy Nedir? </a></li>
-    <li><a href ="#array_olusturmak"> Numpy Dizisi(array) nasıl oluşturulur? </a></li>
+    <li><a href ="/numpy-tutorial-tr.ipynb/#array_olusturmak"> Numpy Dizisi(array) nasıl oluşturulur? </a></li>
     <li><a href ="#temel_fonksiyonlar"> Temel Fonksiyonlar nelerdir? </a>
     <ol style ="list-style-type: decimal">
         <li><a href ="#aritmetik_işlemler"> Aritmetik İşlemler </a></li>
