@@ -1,8 +1,8 @@
 # numpy-tutorial-tr
 # İçindekiler:
 <ol>
-    <li><a href ="/numpy-tutorial-tr.ipynb"> Numpy Nedir? </a></li>
-    <li><a href ="/numpy-tutorial-tr.ipynb/#array_olusturmak"> Numpy Dizisi(array) nasıl oluşturulur? </a></li>
+    <li><a href ="#numpy_nedir"> Numpy Nedir? </a></li>
+    <li><a href ="array_olusturmak"> Numpy Dizisi(array) nasıl oluşturulur? </a></li>
     <li><a href ="#temel_fonksiyonlar"> Temel Fonksiyonlar nelerdir? </a>
     <ol style ="list-style-type: decimal">
         <li><a href ="#aritmetik_işlemler"> Aritmetik İşlemler </a></li>
@@ -22,6 +22,6 @@
     </ol></li>    
     <li><a href ="#npix"> np.ix_() fonksiyonu</a></li>
     <li><a href ="#lineer_algebra"> Lineer Cebir ve Numpy</a></li>
-    <li><a href ="#ipuclari"> İpuçları </a></li>
+    <li><a href ="/numpy-tutorial-tr.ipynb/ipuclari"> İpuçları </a></li>
 
 </ol>
