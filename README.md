@@ -1,27 +1,34 @@
 # numpy-tutorial-tr
-# İçindekiler:
-<ol>
-    <li><a href ="#numpy_nedir"> Numpy Nedir? </a></li>
-    <li><a href ="array_olusturmak"> Numpy Dizisi(array) nasıl oluşturulur? </a></li>
-    <li><a href ="#temel_fonksiyonlar"> Temel Fonksiyonlar nelerdir? </a>
-    <ol style ="list-style-type: decimal">
-        <li><a href ="#aritmetik_işlemler"> Aritmetik İşlemler </a></li>
-        <li><a href ="#max_min"> max(),min(),sum() </a></li>
-        <li><a href ="#exp_sqrt"> np.exp() , np.sqrt() </a></li>
-        <li><a href ="#sort_concetenate"> np.sort(), np.concatenate() </a></li>
-    </ol></li>
-    <li><a href ="#eleman_secme"> Diziden eleman seçmek, parçalamak </a>
-    <ol style="list-style-type: decimal">
-        <li><a href ="#tekboyutlu"> Tek boyutlu diziler </a></li>
-        <li><a href ="#cokboyutlu"> Çok boyutlu diziler </a></li>
-        <li><a href ="#eleman_cagirma"> Dizi elemanlarıyla dizinin elemanını çağırmak</a></li>        
-    </ol></li>
-    <li><a href="#sekil_degistirme"> Şekil değiştirmek </a>
-    <ol style="list-style-type: decimal">
-        <li><a href ="#boyut_eklemek"> 1 boyutlu diziye yeni eksen eklemek (Boyutunu(dimension) arttırmak) </a></li>        
-    </ol></li>    
-    <li><a href ="#npix"> np.ix_() fonksiyonu</a></li>
-    <li><a href ="#lineer_algebra"> Lineer Cebir ve Numpy</a></li>
-    <li><a href ="https://github.com/humeyrau/numpy-tutorial-tr/blob/master/numpy-tutorial-tr.ipynb#ipuclari"> İpuçları </a></li>
 
+<img src="https://miro.medium.com/max/765/1*qePzd2m_uIPvsozXYh89CQ.png">
+
+**Jupyter Notebook Viewer'dan görüntülemek isterseniz<a href="https://nbviewer.jupyter.org/github/humeyrau/numpy-tutorial-tr/blob/master/numpy-tutorial-tr.ipynb"> burdan </a> erişebilirsiniz.**
+
+### İçindekiler:
+<ol>
+    <li>Numpy Nedir? </li>
+    <li> Numpy Dizisi(array) nasıl oluşturulur?</li>
+    <li>Temel Fonksiyonlar nelerdir? 
+    <ol style ="list-style-type: decimal">
+        <li> Aritmetik İşlemler </li>
+        <li> max(),min(),sum()</li>
+        <li>np.exp() , np.sqrt()</li>
+        <li> np.sort(), np.concatenate() </li>
+    </ol></li>
+    <li>Diziden eleman seçmek, parçalamak
+    <ol style="list-style-type: decimal">
+        <li> Tek boyutlu diziler </li>
+        <li> Çok boyutlu diziler </li>
+        <li> Dizi elemanlarıyla dizinin elemanını çağırmak</li>        
+    </ol></li>
+    <li>Şekil değiştirmek 
+    <ol style="list-style-type: decimal">
+        <li> 1 boyutlu diziye yeni eksen eklemek (Boyutunu(dimension) arttırmak) </li>        
+    </ol></li>    
+    <li>np.ix_() fonksiyonu</li>
+    <li>Lineer Cebir ve Numpy</li>
+    <li> İpuçları </li>
 </ol>
+
+### Referans kaynak:
+* https://numpy.org/doc/stable/numpy-user.pdf
