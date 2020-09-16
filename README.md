@@ -22,6 +22,6 @@
     </ol></li>    
     <li><a href ="#npix"> np.ix_() fonksiyonu</a></li>
     <li><a href ="#lineer_algebra"> Lineer Cebir ve Numpy</a></li>
-    <li><a href ="/numpy-tutorial-tr.ipynb/ipuclari"> İpuçları </a></li>
+    <li><a href ="/numpy-tutorial-tr.ipynb/#ipuclari"> İpuçları </a></li>
 
 </ol>
